@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Ibrahim
 
-<!--
-**ibrahimhaddad-77/ibrahimhaddad-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Co-founder & Product Manager at B.well Link**
 
-Here are some ideas to get you started:
+At B.well Link, we're building one health profile that helps people understand their bodies, build better habits, and live healthier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I do
+
+- **Hardware Product Manager**: I lead the B.well Link smart band and smart scale, from concept to launch.
+- **Product Owner, Mobile App**: I own the B.well Link app that brings both devices into one health profile.
+- **Product Manager, Website**: I lead B.well Link's official website.
+- **AI Marketing Agents**: I'm building AI agents myself to run and scale B.well Link's marketing.
+- **Operations**: I keep product, engineering, and launch moving together.
+
+#### How I work
+
+I'm an engineer by background and a product person by choice. I learn the engineering side as I go, and I use AI to build faster.
+
+**Focus:** Product strategy · Hardware & app products · AI agents · Health & wellness tech  
+**Based in:** Giza, Egypt  
+**Connect:** [LinkedIn](https://www.linkedin.com/in/ibrahim-hadad-seif)
